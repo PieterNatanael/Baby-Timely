@@ -13,6 +13,7 @@ import StoreKit
 import UserNotifications
 import Combine
 
+
 // ContentView
 struct ContentView: View {
     @State private var showAdsAndAppFunctionality = false
