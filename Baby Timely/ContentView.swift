@@ -430,6 +430,7 @@ struct AppCardView: View {
                     .foregroundColor(.white)
                     .background(Color.blue)
                     .cornerRadius(10)
+                
             }
         }
     }
